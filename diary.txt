@@ -1,2 +1,3 @@
 오늘 Git을 처음 배웠다.
 둘째 날, git add 와 commit을 익혔다.
+셋째 날, git diff로 변경을 확인했다.
